@@ -73,6 +73,7 @@ h2 {
 }
 
 h1 {
+    font-size: 1000%;
     animation-name: colour;
     animation-duration: 2s;
     animation-iteration-count: infinite;
